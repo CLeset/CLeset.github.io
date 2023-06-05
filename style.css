@@ -250,9 +250,6 @@ section {
     font-size: 15.5px;
     font-weight: 250;
   }
-  .website-img {
-    width: 50%;
-  }
   .title-2 {
     font-size: 1em;
   }
@@ -273,6 +270,14 @@ section {
     flex-direction: column;
     align-items: center;
   }
+  .logo-1 {
+    width: 100%;
+    text-align: center;
+  }
+  .card {
+    width: 20em;
+  }
+
   .footer {
     padding: 27px;
   }
