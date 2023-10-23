@@ -42,7 +42,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(imags/pexels-rodolfo-clix-1366942.jpg) no-repeat;
+  background: url(imags/خلفية-1.jpg) no-repeat;
   background-attachment: fixed;
   background-position: center;
   justify-content: center;
@@ -58,13 +58,13 @@ section {
 .main h2 span {
   display: inline-block;
   margin-top: 30px;
-  color: #ffffff;
+  color: #4699f5;
   font-size: 40px;
   font-weight: 900;
 }
 
 .main h3 {
-  color: #6fe56f;
+  color: #5bb85b;
   font-size: 1.5em;
   font-weight: 700;
   letter-spacing: 1px;
@@ -73,7 +73,7 @@ section {
 }
 .main-btn {
   color: #101010;
-  background-color: #fff71a;
+  background-color: #fff71a9f;
   text-decoration: none;
   font-weight: 900;
   display: inline-block;
@@ -85,12 +85,12 @@ section {
   font-size: 1em;
 }
 .main-btn:hover {
-  background-color: #e5de18;
+  background-color: #e5de1889;
   transform: scale(1.1, 1.1);
 }
 
 .icon {
-  color: #ffffff;
+  color: #d2cb15d9;
   font-size: 1.7em;
   padding-right: 15px;
   transition: 0.7s ease;
